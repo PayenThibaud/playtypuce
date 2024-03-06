@@ -1,0 +1,42 @@
+﻿@model List<Playtypuce>
+
+
+@{
+    ViewData["Title"] = "Liste des Playtypuces";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">@Html.DisplayNameForInnerType((Playtypuce c) => c.Name)</th>
+            <th scope="col">@Html.DisplayNameForInnerType((Playtypuce c) => c.Age)</th>
+            <th scope="col">@Html.DisplayNameForInnerType((Playtypuce c) => c.Colour)</th>
+            <th scope="col">@Html.DisplayNameForInnerType((Playtypuce c) => c.Gender)</th>
+            <th scope="col">Actions</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Playtypuce c in Model)
+        {
+            <tr>
+                <th scope="row">@c.Id</th>
+                <td>@c.Name</td>
+                <td>@c.Age</td>
+                <td>@c.Colour</td>
+                <td>@c.Gender</td>
+                <td>
+                    <a class="btn btn-outline-info" asp-action="Details" asp-route-id="@c.Id">Détails</a>
+                </td>
+                <td>
+                    <a class="btn btn-outline-info" asp-action="Delete" asp-route-id="@c.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+<a asp-controller="Playtypuces" asp-action="AddRandom" class="btn btn-primary">Ajouter un Playtypuce random</a>
+<a asp-controller="Playtypuces" asp-action="Add" class="btn btn-primary">Ajouter un Playtypuce</a>

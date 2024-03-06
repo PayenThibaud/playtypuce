@@ -1,0 +1,31 @@
+﻿@model TypeDeCarte
+@{
+    bool isUpdate = Model != null;
+    ViewData["Title"] = (isUpdate ? "Modifier" : "Ajouter") + " une Carte";
+}
+
+<h1>@(isUpdate ? "Modifier" : "Ajouter")</h1>
+
+<form asp-action="SubmitTypeDeCarte" enctype="multipart/form-data">
+    @*pour un fichier il faut un encodage spécial => multipart/form-data*@
+    <input asp-for="TypeDeCarteId" type="hidden" class="form-control">
+    @*
+    On met l'Id dans le formulaire en cas de modification pour pouvoir l'envoyer à notre action Submit
+    Ainsi, dans l'action Submit, on saura si on cherche à modifier ou ajouter un singe
+    *@
+    <div class="mb-3">
+        <label asp-for="Nom" class="form-label"></label>
+        <input asp-for="Nom" type="text" class="form-control">
+        <span asp-validation-for="Nom" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+    <div class="text-danger">@Html.ValidationSummary()</div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

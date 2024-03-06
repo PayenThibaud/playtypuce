@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Ajout d'un Playtypuce";
+}
+
+<form method="post" action="@Url.Action("AddListe", "Playtypuces")">
+    <div class="mb-3">
+        <label for="nom" class="form-label">Nom</label>
+        <input type="text" class="form-control" id="nom" name="Name">
+    </div>
+    <div class="mb-3">
+        <label for="age" class="form-label">Age</label>
+        <select class="form-select" id="age" name="Age">
+            @for (int i = 1; i <= 40; i++)
+            {
+                <option value="@i">@i</option>
+            }
+        </select>
+    </div>
+    <div class="mb-3">
+        <label for="couleur" class="form-label">Couleur</label>
+        <input type="text" class="form-control" id="couleur" name="Colour">
+    </div>
+    <div class="mb-3">
+        <label for="sexe" class="form-label">Sexe</label>
+        <select class="form-select" id="sexe" name="Gender">
+            <option value="Mâle">Mâle</option>
+            <option value="Femelle">Femelle</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

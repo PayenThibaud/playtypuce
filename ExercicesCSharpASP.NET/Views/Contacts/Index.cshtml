@@ -1,0 +1,41 @@
+﻿@model List<Contact>
+@{
+    ViewData["Title"] = "Contacts page";
+}
+
+
+
+@* Je suis la page pour lister les Contacts... *@
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">N° de téléphone</th>
+        </tr>
+    </thead>
+    <tbody>
+        @* Exemple d'une ligne (un contact)
+        <tr>
+            <th scope="row">1</th>
+            <td>Mark</td>
+            <td>Otto</td>
+            <td>blabla@gmail.com</td>
+            <td>0607080910</td>
+        </tr> 
+        *@
+        @* @foreach (Contact c in (List<Contact>) ViewData["contactList"]) *@
+        @* @foreach (Contact c in (List<Contact>) ViewBag.ContactList) *@
+        @foreach (Contact c in Model) @* Model est de type List<Contact> grace à la ligne 1 du fichier '@model List<Contact>' *@
+        {
+            <tr>
+                <th scope="row">@c.Id</th>
+                <td>@c.Name</td>
+                <td>@c.Email</td>
+                <td>@c.PhoneNumber</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,44 @@
+﻿@model List<TypeDeCarte>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<p>
+    <a asp-action="Form" class="btn btn-info">Create New</a>
+</p>
+<h2>Liste des @Model.Count TypeDeCartes</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameForInnerType((Carte model) => model.TypeDeCarteId)
+            </th>
+            <th>
+                @Html.DisplayNameForInnerType((Carte model) => model.Nom)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => p.TypeDeCarteId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => p.Nom)
+                </td>
+                <td>
+
+                <td>
+                    <a class="btn btn-primary" asp-action="Details" asp-route-id="@p.TypeDeCarteId">Détails de la carte</a>
+                    <a class="btn btn-warning" asp-action="Form" asp-route-id="@p.TypeDeCarteId">Modifier la carte</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@p.TypeDeCarteId">Supprimer la carte</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

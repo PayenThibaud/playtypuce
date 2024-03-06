@@ -1,0 +1,26 @@
+﻿@model Contact
+@{
+    ViewData["Title"] = "Détails Contact";
+    Contact contact = Model;
+}
+
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">Id : @contact.Id</h5>
+    </div>
+    <div class="card" style="width: 18rem;">
+        <div class="card-body">
+            <h5 class="card-title">Name : @contact.Name</h5>
+        </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">Email : @contact.Email</li>
+        <li class="list-group-item">Address : @contact.Address</li>
+        <li class="list-group-item">City : @contact.City</li>
+        <li class="list-group-item">Region : @contact.Region</li>
+        <li class="list-group-item">PostalCode : @contact.PostalCode</li>
+        <li class="list-group-item">Country : @contact.Country</li>
+    </ul>
+    <div class="card-body">
+        <a href="#" class="card-link">Retour à la liste</a>
+    </div>
+</div>

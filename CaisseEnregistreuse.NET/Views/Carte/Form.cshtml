@@ -1,0 +1,55 @@
+﻿@model Carte
+@{
+    bool isUpdate = Model != null;
+    ViewData["Title"] = (isUpdate ? "Modifier" : "Ajouter") + " une Carte";
+}
+
+<h1>@(isUpdate ? "Modifier" : "Ajouter")</h1>
+
+<form asp-action="SubmitCarte" enctype="multipart/form-data">
+    <input asp-for="Id" type="hidden" class="form-control">
+
+    <div class="mb-3">
+        <label asp-for="Nom" class="form-label"></label>
+        <input asp-for="Nom" type="text" class="form-control">
+        <span asp-validation-for="Nom" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <input asp-for="Description" type="text" class="form-control">
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Prix" class="form-label"></label>
+        <input asp-for="Prix" type="text" class="form-control">
+        <span asp-validation-for="Prix" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="QuantiteEnStock" class="form-label"></label>
+        <input asp-for="QuantiteEnStock" type="number" class="form-control">
+        <span asp-validation-for="QuantiteEnStock" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="TypeDeCarteId" class="form-label">Type de carte</label>
+        <select asp-for="TypeDeCarteId" asp-items="@(new SelectList(ViewBag.TypeDeCartes, "TypeDeCarteId", "Nom"))" class="form-control">
+            <option value="">Sélectionnez un type</option>
+        </select>
+        <span asp-validation-for="TypeDeCarteId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Photo de la carte</label>
+        <input type="file" name="picture" class="form-control">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+    <div class="text-danger">@Html.ValidationSummary()</div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

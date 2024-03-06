@@ -1,0 +1,137 @@
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\appsettings.json
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Playtypuces.staticwebassets.runtime.json
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Playtypuces.exe
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Playtypuces.deps.json
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Playtypuces.runtimeconfig.json
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Playtypuces.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Playtypuces.pdb
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\Playtypuces.csproj.AssemblyReference.cache
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\Playtypuces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\Playtypuces.AssemblyInfoInputs.cache
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\Playtypuces.AssemblyInfo.cs
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\Playtypuces.csproj.CoreCompileInputs.cache
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\Playtypuces.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\Playtypuces.RazorAssemblyInfo.cache
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\Playtypuces.RazorAssemblyInfo.cs
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\Playtypuces.sourcelink.json
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\staticwebassets\msbuild.Playtypuces.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\staticwebassets\msbuild.build.Playtypuces.props
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Playtypuces.props
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Playtypuces.props
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\scopedcss\bundle\Playtypuces.styles.css
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\scopedcss\projectbundle\Playtypuces.bundle.scp.css
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\Playtypuces.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\refint\Playtypuces.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\Playtypuces.pdb
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\Playtypuces.genruntimeconfig.cache
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\ref\Playtypuces.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\M2I_Csharp\ASP\Playtypuces\obj\Debug\net6.0\Playtypu.37CFB3C3.Up2Date
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\appsettings.json
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Playtypuces.staticwebassets.runtime.json
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Playtypuces.exe
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Playtypuces.deps.json
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Playtypuces.runtimeconfig.json
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Playtypuces.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Playtypuces.pdb
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\Playtypuces.csproj.AssemblyReference.cache
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\Playtypuces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\Playtypuces.AssemblyInfoInputs.cache
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\Playtypuces.AssemblyInfo.cs
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\Playtypuces.csproj.CoreCompileInputs.cache
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\Playtypuces.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\Playtypuces.RazorAssemblyInfo.cache
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\Playtypuces.RazorAssemblyInfo.cs
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\staticwebassets\msbuild.Playtypuces.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\staticwebassets\msbuild.build.Playtypuces.props
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Playtypuces.props
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Playtypuces.props
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\scopedcss\bundle\Playtypuces.styles.css
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\scopedcss\projectbundle\Playtypuces.bundle.scp.css
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\Playtypu.37CFB3C3.Up2Date
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\Playtypuces.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\refint\Playtypuces.dll
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\Playtypuces.pdb
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\Playtypuces.genruntimeconfig.cache
+C:\Users\Thibaud Payen\Desktop\pizzablazor\Playtypuces\obj\Debug\net6.0\ref\Playtypuces.dll

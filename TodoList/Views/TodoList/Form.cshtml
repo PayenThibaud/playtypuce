@@ -1,0 +1,28 @@
+﻿@model TodoListClass
+@{
+    bool isUpdate = Model != null;
+    ViewData["Title"] = (isUpdate ? "Modifier" : "Ajouter") + " un mémo";
+}
+
+<h1>@(isUpdate ? "Modifier" : "Ajouter")</h1>
+
+<form asp-action="SubmitTodoListClass">
+    <input asp-for="Id" type="hidden" class="form-control">
+
+    <div class="mb-3">
+        <label asp-for="Titre" class="form-label"></label>
+        <input asp-for="Titre" type="text" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <input asp-for="Description" type="text" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="StatutEnCours" class="form-label"></label>
+        <select asp-for="StatutEnCours" class="form-control">
+            <option value="EnCours">En Cours</option>
+            <option value="Termine">Terminé</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

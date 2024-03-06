@@ -1,0 +1,66 @@
+﻿@model List<Carte>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<p>
+    <a asp-action="Form" class="btn btn-info">Create New</a>
+</p>
+<h2>Liste des @Model.Count cartes</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameForInnerType((Carte model) => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameForInnerType((Carte model) => model.Nom)
+            </th>
+            <th>
+                @Html.DisplayNameForInnerType((Carte model) => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameForInnerType((Carte model) => model.Prix)
+            </th>
+            <th>
+                @Html.DisplayNameForInnerType((Carte model) => model.QuantiteEnStock)
+            </th>
+            <th>
+                @Html.DisplayName("Type de carte")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => p.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => p.Nom)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => p.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => p.Prix)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => p.QuantiteEnStock)
+                </td>
+                <td>
+                    @ViewBag.TypeDeCarteNoms[p.TypeDeCarteId]
+                </td>
+                <td>
+                    <a class="btn btn-primary" asp-action="Details" asp-route-id="@p.Id">Détails de la carte</a>
+                    <a class="btn btn-warning" asp-action="Form" asp-route-id="@p.Id">Modifier la carte</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@p.Id">Supprimer la carte</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

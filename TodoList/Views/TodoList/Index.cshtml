@@ -1,0 +1,61 @@
+﻿@model List<TodoListClass>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<p>
+    <a asp-action="Form" class="btn btn-info">Create New</a>
+</p>
+<h2>Liste des @Model.Count mémo</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameForInnerType((TodoListClass model) => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameForInnerType((TodoListClass model) => model.Titre)
+            </th>
+            <th>
+                @Html.DisplayNameForInnerType((TodoListClass model) => model.Description)
+            </th>
+            <th>
+                StatutEnCours
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => p.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => p.Titre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => p.Description)
+                </td>
+                <td>
+                    <form asp-action="UpdateStatus" method="post">
+                        <input type="hidden" name="id" value="@p.Id" />
+
+                        <div class="btn-group" role="group" aria-label="StatutEnCours">
+                            <button type="submit" class="btn btn-primary @(p.StatutEnCours == Statut.EnCours ? "active" : "")" name="status" value="EnCours">En Cours</button>
+                            <button type="submit" class="btn btn-primary @(p.StatutEnCours == Statut.Terminée ? "active" : "")" name="status" value="Termine">Terminé</button>
+                        </div>
+                    </form>
+                </td>
+                <td>
+                    <a class="btn btn-primary" asp-action="Details" asp-route-id="@p.Id">Détails du mémo</a>
+                    <a class="btn btn-warning" asp-action="Form" asp-route-id="@p.Id">Modifier le mémo</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@p.Id">Supprimer le mémo</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
